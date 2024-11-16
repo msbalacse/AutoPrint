@@ -1,0 +1,9 @@
+﻿Uninstalling assembly 'C:\Users\Baskar\Documents\Projects\AutoPrint\AutoprintService\bin\Release\AutoprintService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Baskar\Documents\Projects\AutoPrint\AutoprintService\bin\Release\AutoprintService.InstallLog
+   assemblypath = C:\Users\Baskar\Documents\Projects\AutoPrint\AutoprintService\bin\Release\AutoprintService.exe
+Removing EventLog source MainService.
+Service MainService is being removed from the system...
+Service MainService was successfully removed from the system.
+Attempt to stop service MainService.
